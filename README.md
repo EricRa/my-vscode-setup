@@ -1,2 +1,2 @@
 # my-vscode-setup
-Current VSCode Settings/Extensions/Other
+Current VSCode settings, extensions, and useful shortcuts
