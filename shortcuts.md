@@ -1,0 +1,2 @@
+### To create duplicate code line above/below: 
+- Alt+Shift+up/down arrow
