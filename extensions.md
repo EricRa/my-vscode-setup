@@ -1,3 +1,5 @@
+## Extensions
+
 ### C#
     - Microsoft
 
@@ -10,3 +12,13 @@
     - Brad Gashler
     - Wraps selected code in HTML tags
     - Alt+W wto enclose selection within tabs
+
+### Live Server
+    - Ritwick Day
+
+### Prettier
+    - Prettier
+
+### ESLint
+    - Microsoft
+
