@@ -22,3 +22,5 @@
 ### ESLint
     - Microsoft
 
+### Simple React Snippets
+    - Burke Holland
