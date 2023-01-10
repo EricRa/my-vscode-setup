@@ -1,12 +1,18 @@
-## Extensions
+# Extensions
 
-### C#
-    - Microsoft
-
+## Active extensions
 
 ### Dracula Official
     - Dracula Theme
     - To set: File > Preferences > Color Theme
+
+### Python (by Microsoft)
+    - Essential language tools for Python dev
+
+## Currently disabled extensions
+
+### C#
+    - Microsoft
 
 ### htmltagwrap
     - Brad Gashler
